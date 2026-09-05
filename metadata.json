@@ -1,0 +1,6 @@
+{
+  "name": "MedSupply Africa — Inventory Intelligence",
+  "description": "Interactive pharmaceutical and medical supply inventory intelligence dashboard for distributors in Nigeria, tracking revenue, reorder points, expiry risks, and data quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
